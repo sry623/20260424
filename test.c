@@ -6,5 +6,6 @@ int main(void)
 	printf("sfasf");
 
 	sleep(1);
+	printf("我要吃饭");
 	return 0;
 }
